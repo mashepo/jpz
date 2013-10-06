@@ -1,7 +1,12 @@
 jpz
 ===
 
-Repozytorium do zajęć z Języków Programowania.
+Program na dzisiaj:
+
+* oswajanie notacji markdown
+* podstawy secure shell
+* edytory
+
 
 ## Zmiana hasła
 
