@@ -3,8 +3,8 @@ jpz
 
 Program na dzisiaj:
 
-* oswajanie [notacji markdown] [daringfirebal]
-  - [dodawanie obrazków](http://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository)
+* oswajanie [notacji markdown] [daringfireball]
+  - [dodawanie obrazków] [stackoverflow-screenshots]
 * podstawy secure shell
 * edytory
 
@@ -32,3 +32,4 @@ main() {
 
 
 [daringfireball]: http://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
+[stackoverflow-screenshots]: http://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
