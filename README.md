@@ -3,7 +3,8 @@ jpz
 
 Program na dzisiaj:
 
-* oswajanie notacji markdown
+* oswajanie [notacji markdown](http://daringfireball.net/projects/markdown/basics)
+  - [dodawanie obrazków](http://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository)
 * podstawy secure shell
 * edytory
 
