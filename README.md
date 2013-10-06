@@ -37,7 +37,7 @@ Rozpakowanie:
 
 ```
 tar jxvf Sublime\ Text\ 2.0.2.tar.bz2 
-cd cd Sublime\ Text\ 2/
+cd Sublime\ Text\ 2/
 ```
 
 
