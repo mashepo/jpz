@@ -12,7 +12,7 @@ Program na dzisiaj:
 ## Zmiana hasła
 
 ```sh
-passwd
+passwd  # ctrl+c aby przerwać
 ```
 
 Być może trzeba będzie zalogować się na Sigmę:
@@ -29,6 +29,18 @@ main() {
   printf("hello world");
 }
 ```
+
+# Edytory
+
+
+Rozpakowanie:
+
+```
+tar jxvf Sublime\ Text\ 2.0.2.tar.bz2 
+cd cd Sublime\ Text\ 2/
+```
+
+
 
 
 [daringfireball]: http://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
